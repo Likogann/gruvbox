@@ -1,0 +1,28 @@
+/**
+ * @name Gruvbox
+ * @author Likogan
+ * @description https://bdeditor.dev/theme/discordrecolor
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 69,133,136;
+  --accentcolor2: 177,98,134;
+  --linkcolor: 69,133,136;
+  --mentioncolor: 215,153,33;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --font: gg sans;
+  --backgroundaccent: 80,73,69;
+  --backgroundprimary: 40,40,40;
+  --backgroundsecondary: 29,32,33;
+  --backgroundsecondaryalt: 29,32,33;
+  --backgroundtertiary: 25,24,24;
+  --backgroundfloating: 0,0,0;
+  --settingsicons: 1;
+}
